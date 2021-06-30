@@ -90,9 +90,9 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    <h4>NIM     : 17090008</h4>
-                                    <h4>Nama    : Umar Ulkhak</h4>
-                                    <h4>Kelas   : 6B</h4>
+                                    <h4>NIM     : 18090018</h4>
+                                    <h4>Nama    : Eka Sri Mulyani</h4>
+                                    <h4>Kelas   : 6C</h4>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                     </div>
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Copyright © 2021 Umar Ulkhak. All Rights Reserved
+                        Copyright © 2021 Eka. All Rights Reserved
                     </div>
                 </div>
             </div>

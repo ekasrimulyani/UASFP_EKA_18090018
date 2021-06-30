@@ -81,6 +81,6 @@
     </div>
 </body>
 <div class="ml-4 text-center text-sm text-liht-900 sm:text-right sm:ml-0">
-    Copyright © 2021 Umar Ulkhak. All Rights Reserved
+    Copyright © 2021 Eka. All Rights Reserved
 </div>
 </html>

@@ -8,8 +8,8 @@
                 <div class="card-header">{{ __('List Kendaraan') }}</div><br>
                 <div class="container">
                     <td>
-                    <a class="btn btn-outline-primary" href="/form-tambah"> Add </a>
-                    <a class="btn btn-outline-dark" href="/download-pdf"> Print </a>
+                    <a class="btn btn-outline-info" href="/form-tambah"> Add </a>
+                    <a class="btn btn-outline-warning" href="/download-pdf"> Print </a>
                     </td>
                     <br><br>
                 <table class="table">
@@ -35,7 +35,7 @@
                               <td>{{ $i->tipe }}</td>
                               <td><img src="{{ asset('images') }}/{{ $i->profileimage }}" style="max-width:60px;"></td>
                               <td>
-                                  <a class="btn btn-outline-warning" href="/ubah-kendaraan/{{$i->id}}">Edit</a>
+                                  <a class="btn btn-outline-success" href="/ubah-kendaraan/{{$i->id}}">Edit</a>
                                   <a class="btn btn-outline-danger" href="/hapus-kendaraan/{{$i->id}}"> Hapus</a>
                               </td>
                           </tr>
